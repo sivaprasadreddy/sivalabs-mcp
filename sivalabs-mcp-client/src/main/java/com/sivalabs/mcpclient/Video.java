@@ -3,15 +3,15 @@ package com.sivalabs.mcpclient;
 import java.util.Objects;
 
 
-public class Course {
+public class Video {
     private Long id;
     private String title;
     private String url;
 
-    public Course() {
+    public Video() {
     }
 
-    public Course(String title, String url) {
+    public Video(String title, String url) {
         this.title = title;
         this.url = url;
     }
@@ -44,7 +44,7 @@ public class Course {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Course course = (Course) o;
+        Video course = (Video) o;
         return Objects.equals(id, course.id) &&
                Objects.equals(title, course.title) &&
                Objects.equals(url, course.url);
@@ -57,7 +57,7 @@ public class Course {
 
     @Override
     public String toString() {
-        return "Course{" +
+        return "Video{" +
                "id=" + id +
                ", title='" + title + '\'' +
                ", url='" + url + '\'' +

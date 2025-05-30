@@ -1,4 +1,4 @@
-package com.sivalabs.mcp;
+package com.sivalabs.mcpserver;
 
 import io.modelcontextprotocol.server.McpServerFeatures.SyncPromptSpecification;
 import io.modelcontextprotocol.spec.McpSchema;
@@ -19,7 +19,7 @@ public class SivaLabsMcpServerApplication {
 	}
 
 	@Bean
-	public List<ToolCallback> toolCallbacks(CourseService courseService) {
+	public List<ToolCallback> toolCallbacks(VideoTools courseService) {
 		return List.of(ToolCallbacks.from(courseService));
 	}
 

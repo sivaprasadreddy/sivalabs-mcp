@@ -1,9 +1,23 @@
-### GET request to example server
+### GET all videos
 POST http://localhost:8080/ask
 Content-Type: application/json
 
 {
-  "question": "what are the courses offered by SivaLabs?"
+  "question": "what are the videos offered by SivaLabs?"
 }
 
-###
+### Search videos
+POST http://localhost:8080/ask
+Content-Type: application/json
+
+{
+  "question": "Are there any videos on OAuth from SivaLabs?"
+}
+
+### Get video details by title
+POST http://localhost:8080/ask
+Content-Type: application/json
+
+{
+  "question": "Get more info on 'Spring Boot Microservices Complete Tutorial' video from SivaLabs?"
+}

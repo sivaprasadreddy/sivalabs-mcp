@@ -1,27 +1,24 @@
-package com.sivalabs.mcp;
+package com.sivalabs.mcpserver;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
+
 import java.util.Objects;
 
 @Entity
-@Table(name = "courses")
-public class Course {
-
+@Table(name = "yt_videos")
+public class Video {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
+    @Column(unique = true, nullable = false)
     private String title;
+    @Column(nullable = false)
     private String url;
 
-    public Course() {
+    public Video() {
     }
 
-    public Course(String title, String url) {
+    public Video(String title, String url) {
         this.title = title;
         this.url = url;
     }
@@ -54,7 +51,7 @@ public class Course {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Course course = (Course) o;
+        Video course = (Video) o;
         return Objects.equals(id, course.id) &&
                Objects.equals(title, course.title) &&
                Objects.equals(url, course.url);
@@ -67,7 +64,7 @@ public class Course {
 
     @Override
     public String toString() {
-        return "Course{" +
+        return "Video{" +
                "id=" + id +
                ", title='" + title + '\'' +
                ", url='" + url + '\'' +

@@ -7,11 +7,11 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class CourseController {
+public class VideoController {
     private final ChatClient chatClient;
 
-    public CourseController(ChatClient.Builder chatClientBuilder,
-                         ToolCallbackProvider tools) {
+    public VideoController(ChatClient.Builder chatClientBuilder,
+                           ToolCallbackProvider tools) {
         this.chatClient = chatClientBuilder
                 .defaultSystem("Answer all questions with complete sentences.")
                 .defaultToolCallbacks(tools)
