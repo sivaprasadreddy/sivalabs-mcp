@@ -1,4 +1,4 @@
-package com.sivalabs.academy;
+package com.sivalabs.mcp;
 
 import jakarta.annotation.PostConstruct;
 import org.slf4j.Logger;
@@ -11,7 +11,6 @@ import java.util.List;
 
 @Service
 public class CourseService {
-
     private static final Logger log = LoggerFactory.getLogger(CourseService.class);
 
     private final CourseRepository courseRepository;
@@ -21,12 +20,12 @@ public class CourseService {
         this.courseRepository = courseRepository;
     }
 
-    @Tool(name = "sl_get_courses", description = "Get a list of courses from SivaLabs")
+    @Tool(name = "getCourses", description = "Get a list of courses from SivaLabs")
     public List<Course> getCourses() {
         return courseRepository.findAll();
     }
 
-    @Tool(name = "sl_get_course", description = "Get a single course from SivaLabs by title")
+    @Tool(name = "getCourse", description = "Get a single course from SivaLabs by title")
     public Course getCourse(String title) {
         return courseRepository.findByTitle(title).orElse(null);
     }

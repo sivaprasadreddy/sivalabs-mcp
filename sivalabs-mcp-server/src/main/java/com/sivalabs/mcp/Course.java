@@ -1,4 +1,4 @@
-package com.sivalabs.academy;
+package com.sivalabs.mcp;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

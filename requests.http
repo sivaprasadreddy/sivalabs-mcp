@@ -1,0 +1,9 @@
+### GET request to example server
+POST http://localhost:8080/ask
+Content-Type: application/json
+
+{
+  "question": "what are the courses offered by SivaLabs?"
+}
+
+###
