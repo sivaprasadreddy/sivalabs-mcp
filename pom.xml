@@ -4,12 +4,6 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
 	https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.5.0</version>
-		<relativePath/> <!-- lookup parent from repository -->
-	</parent>
 	<groupId>com.sivalabs</groupId>
 	<artifactId>sivalabs-mcp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -17,13 +11,14 @@
 	<name>sivalabs-mcp</name>
 
 	<properties>
-		<maven.compiler.target>21</maven.compiler.target>
-		<maven.compiler.source>21</maven.compiler.source>
+		<maven.compiler.target>24</maven.compiler.target>
+		<maven.compiler.source>24</maven.compiler.source>
 	</properties>
 
 	<modules>
-		<module>sivalabs-mcp-server</module>
-		<module>sivalabs-mcp-client</module>
+		<module>youtube-api</module>
+		<module>sivalabs-mcp-server-stdio</module>
+		<module>sivalabs-mcp-client-stdio</module>
 	</modules>
 
 </project>

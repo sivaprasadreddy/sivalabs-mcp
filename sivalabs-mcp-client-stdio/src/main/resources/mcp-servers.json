@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sivalabs": {
+      "command": "/Users/siva/.sdkman/candidates/java/current/bin/java",
+      "args": [
+        "-jar",
+        "/Users/siva/Siva/Projects/My/sivalabs-mcp/sivalabs-mcp-server-stdio/target/sivalabs-mcp-server-stdio-0.0.1.jar"
+      ]
+    }
+  }
+}

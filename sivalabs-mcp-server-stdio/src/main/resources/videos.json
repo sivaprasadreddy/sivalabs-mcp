@@ -1,0 +1,693 @@
+{
+  "videos" : [ {
+    "title" : "🚀  Spring AI Complete Tutorial (3 Hours)",
+    "publishedAt" : "2025-09-15T13:45:09.000Z",
+    "duration" : "179:45",
+    "url" : "https://www.youtube.com/watch?v=hmWHfB2ixu0"
+  }, {
+    "title" : "Building AI Agents using Java and Embabel",
+    "publishedAt" : "2025-09-08T04:09:22.000Z",
+    "duration" : "53:36",
+    "url" : "https://www.youtube.com/watch?v=lqQ_NL4y5Qg"
+  }, {
+    "title" : "Spring AI Tutorial : 10 - Model Context Protocol (MCP)",
+    "publishedAt" : "2025-09-01T04:00:29.000Z",
+    "duration" : "36:48",
+    "url" : "https://www.youtube.com/watch?v=z9H-qgbJNHI"
+  }, {
+    "title" : "Spring AI Tutorial : 09 - Extend LLMs Capabilities using Tool Calling",
+    "publishedAt" : "2025-08-28T04:15:01.000Z",
+    "duration" : "20:18",
+    "url" : "https://www.youtube.com/watch?v=LJCnpsdhPlQ"
+  }, {
+    "title" : "Spring AI Tutorial : 08 - Retrieval Augmented Generation (RAG)",
+    "publishedAt" : "2025-08-25T04:01:04.000Z",
+    "duration" : "28:18",
+    "url" : "https://www.youtube.com/watch?v=uUmdAa5OF9k"
+  }, {
+    "title" : "Spring Modulith Workshop - Convert a Monolithic Application into Modular Monolith",
+    "publishedAt" : "2025-08-24T00:21:19.000Z",
+    "duration" : "99:34",
+    "url" : "https://www.youtube.com/watch?v=UXe6xuV-URY"
+  }, {
+    "title" : "Spring AI Tutorial : 07 - Chat Memory",
+    "publishedAt" : "2025-08-22T03:45:01.000Z",
+    "duration" : "20:25",
+    "url" : "https://www.youtube.com/watch?v=LTkch_PO2mM"
+  }, {
+    "title" : "Spring AI Tutorial : 06 - Structured Output",
+    "publishedAt" : "2025-08-20T06:00:31.000Z",
+    "duration" : "13:11",
+    "url" : "https://www.youtube.com/watch?v=MpTNOhJ_Jjk"
+  }, {
+    "title" : "Spring AI Tutorial : 05 - Prompt Templates",
+    "publishedAt" : "2025-08-18T06:21:30.000Z",
+    "duration" : "16:29",
+    "url" : "https://www.youtube.com/watch?v=cGEBrJlpvyk"
+  }, {
+    "title" : "Spring AI Tutorial : 04 - Chat with Anthropic Claude Models",
+    "publishedAt" : "2025-08-15T11:45:06.000Z",
+    "duration" : "03:35",
+    "url" : "https://www.youtube.com/watch?v=v_MmSCsdnpo"
+  }, {
+    "title" : "Spring AI Tutorial : 03 - Chat with Ollama",
+    "publishedAt" : "2025-08-15T06:45:00.000Z",
+    "duration" : "08:10",
+    "url" : "https://www.youtube.com/watch?v=HLiZfHuiwsQ"
+  }, {
+    "title" : "Spring AI Tutorial : 02 - Chat with Gemini, Groq, OpenRouter, Docker Model Runner for FREE",
+    "publishedAt" : "2025-08-14T05:15:03.000Z",
+    "duration" : "17:50",
+    "url" : "https://www.youtube.com/watch?v=efRd68orIqY"
+  }, {
+    "title" : "Spring AI Tutorial : 01 - Chat with OpenAI",
+    "publishedAt" : "2025-08-13T08:15:03.000Z",
+    "duration" : "10:09",
+    "url" : "https://www.youtube.com/watch?v=djb3KRV-cno"
+  }, {
+    "title" : "Spring AI Tutorial - Course Overview",
+    "publishedAt" : "2025-08-13T07:00:44.000Z",
+    "duration" : "06:08",
+    "url" : "https://www.youtube.com/watch?v=oP7tn_YfoOk"
+  }, {
+    "title" : "How to Log SQL Queries with Parameter Values?",
+    "publishedAt" : "2025-08-07T11:15:06.000Z",
+    "duration" : "07:42",
+    "url" : "https://www.youtube.com/watch?v=YUxc1vBMn6A"
+  }, {
+    "title" : "Spring AI: Build a Blogging Machine",
+    "publishedAt" : "2025-07-23T06:45:04.000Z",
+    "duration" : "23:06",
+    "url" : "https://www.youtube.com/watch?v=X3Anoqoj7XA"
+  }, {
+    "title" : "IntelliJ IDEA Workspaces: Dev Setup Made Simple",
+    "publishedAt" : "2025-06-19T10:15:03.000Z",
+    "duration" : "17:36",
+    "url" : "https://www.youtube.com/watch?v=ocoQ4QK9h4I"
+  }, {
+    "title" : "Bootify - Generate Production Grade Spring Boot Applications in Minutes",
+    "publishedAt" : "2025-05-19T08:37:18.000Z",
+    "duration" : "22:53",
+    "url" : "https://www.youtube.com/watch?v=Lyj4of6FO4w"
+  }, {
+    "title" : "First Look at JetBrains Junie",
+    "publishedAt" : "2025-04-21T06:41:47.000Z",
+    "duration" : "18:05",
+    "url" : "https://www.youtube.com/watch?v=qqqzIBeYoWY"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Complete Course (5 Hours)",
+    "publishedAt" : "2025-04-21T04:13:37.000Z",
+    "duration" : "300:01",
+    "url" : "https://www.youtube.com/watch?v=XEgS8yq-zgw"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 12: Dockerizing Spring Boot Application",
+    "publishedAt" : "2025-04-16T04:45:08.000Z",
+    "duration" : "08:31",
+    "url" : "https://www.youtube.com/watch?v=su9Z0d2YHhs"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 11: Working with DB using JdbcClient",
+    "publishedAt" : "2025-04-14T06:05:14.000Z",
+    "duration" : "17:47",
+    "url" : "https://www.youtube.com/watch?v=A8AmAmqA6uQ"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 10: Method Level Security and Role Hierarchy",
+    "publishedAt" : "2025-04-11T06:28:42.000Z",
+    "duration" : "23:38",
+    "url" : "https://www.youtube.com/watch?v=WsLyB-8ZpuI"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 9: Spring Data JPA Pagination",
+    "publishedAt" : "2025-04-09T04:45:00.000Z",
+    "duration" : "31:07",
+    "url" : "https://www.youtube.com/watch?v=DgkFdiIVyKA"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 8: Private Short URLs for Authenticated Users",
+    "publishedAt" : "2025-04-07T04:45:03.000Z",
+    "duration" : "15:03",
+    "url" : "https://www.youtube.com/watch?v=fHs-ueL3wm0"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 7: Secure Web Applications using Spring Security",
+    "publishedAt" : "2025-04-04T04:57:35.000Z",
+    "duration" : "41:38",
+    "url" : "https://www.youtube.com/watch?v=-le-Iv-qCNs"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 6: URL Redirection and Exception Handling",
+    "publishedAt" : "2025-04-03T04:55:39.000Z",
+    "duration" : "12:28",
+    "url" : "https://www.youtube.com/watch?v=_pIWaUfI29I"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 5: Thymeleaf Form Submission & Validations",
+    "publishedAt" : "2025-04-02T04:45:03.000Z",
+    "duration" : "38:03",
+    "url" : "https://www.youtube.com/watch?v=qaOTW_eZKiw"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 4: Solving JPA/Hibernate LazyLoadingException",
+    "publishedAt" : "2025-03-31T04:45:00.000Z",
+    "duration" : "21:34",
+    "url" : "https://www.youtube.com/watch?v=3zSGp2BkAk0"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 3: Working with Spring Data JPA",
+    "publishedAt" : "2025-03-28T04:45:00.000Z",
+    "duration" : "54:54",
+    "url" : "https://www.youtube.com/watch?v=1XAf6BK_8lg"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener - Part 2: Project Setup",
+    "publishedAt" : "2025-03-26T04:52:17.000Z",
+    "duration" : "25:46",
+    "url" : "https://www.youtube.com/watch?v=AvZjSrJzgWM"
+  }, {
+    "title" : "Spring Boot: Build URL Shortener Application - Part 1: Introduction",
+    "publishedAt" : "2025-03-25T04:45:02.000Z",
+    "duration" : "09:44",
+    "url" : "https://www.youtube.com/watch?v=gYfbTg6NUEs"
+  }, {
+    "title" : "Spring Boot Microservices Root Project Setup",
+    "publishedAt" : "2025-03-24T10:40:11.000Z",
+    "duration" : "05:27",
+    "url" : "https://www.youtube.com/watch?v=IVf6FL0a6qg"
+  }, {
+    "title" : "IntelliJ IDEA Tips: Run Commands Quickly using \"Run Anything\"",
+    "publishedAt" : "2025-02-20T12:10:00.000Z",
+    "duration" : "04:49",
+    "url" : "https://www.youtube.com/watch?v=5n-7TjMaj7I"
+  }, {
+    "title" : "Why You Should NOT Use Lombok @Data Annotation with JPA Entities",
+    "publishedAt" : "2025-02-17T06:36:51.000Z",
+    "duration" : "13:07",
+    "url" : "https://www.youtube.com/watch?v=GOiU5i3lupY"
+  }, {
+    "title" : "Spring Boot Microservices Complete Tutorial",
+    "publishedAt" : "2025-02-15T04:55:01.000Z",
+    "duration" : "717:39",
+    "url" : "https://www.youtube.com/watch?v=ZKQWwCUEABY"
+  }, {
+    "title" : "IntelliJ IDEA Tips for Java Developers - Code Faster",
+    "publishedAt" : "2025-02-14T05:15:02.000Z",
+    "duration" : "14:57",
+    "url" : "https://www.youtube.com/watch?v=Kiry69tEIOE"
+  }, {
+    "title" : "IntelliJ IDEA Tips: Inject Spring Bean Dependencies like a BOSS",
+    "publishedAt" : "2024-12-09T05:15:02.000Z",
+    "duration" : "01:13",
+    "url" : "https://www.youtube.com/watch?v=ndFWAp6MUwA"
+  }, {
+    "title" : "IntelliJ IDEA Tips: Create Logger Instance in a Snap",
+    "publishedAt" : "2024-12-07T01:05:55.000Z",
+    "duration" : "00:43",
+    "url" : "https://www.youtube.com/watch?v=EMdQbeGHvec"
+  }, {
+    "title" : "Spring Boot Scheduled Jobs",
+    "publishedAt" : "2024-11-07T12:10:00.000Z",
+    "duration" : "05:02",
+    "url" : "https://www.youtube.com/watch?v=RNeNk-nbbq4"
+  }, {
+    "title" : "How to use Spring Data JPA Derived Query Methods?",
+    "publishedAt" : "2024-10-20T02:05:00.000Z",
+    "duration" : "09:23",
+    "url" : "https://www.youtube.com/watch?v=eSaXN7WqQKI"
+  }, {
+    "title" : "Generate JPA Entities and Repositories using IntelliJ IDEA JPA Buddy Plugin",
+    "publishedAt" : "2024-10-11T04:45:03.000Z",
+    "duration" : "04:45",
+    "url" : "https://www.youtube.com/watch?v=Z0BLy3UVI5Q"
+  }, {
+    "title" : "My IntelliJ IDEA SetUp for Java Development",
+    "publishedAt" : "2024-06-26T06:57:29.000Z",
+    "duration" : "08:34",
+    "url" : "https://www.youtube.com/watch?v=HJYybOuPym4"
+  }, {
+    "title" : "Spring Modulith Crash Course : Building Modular Monoliths using Spring Boot",
+    "publishedAt" : "2024-06-02T05:15:00.000Z",
+    "duration" : "43:39",
+    "url" : "https://www.youtube.com/watch?v=FkP2aZiBrhg"
+  }, {
+    "title" : "Spring Boot Thymeleaf HTMX Tutorial",
+    "publishedAt" : "2024-05-08T05:30:11.000Z",
+    "duration" : "46:44",
+    "url" : "https://www.youtube.com/watch?v=T6dU3GZf6DA"
+  }, {
+    "title" : "Spring Boot Docker Compose Support : Local Development Made Simple",
+    "publishedAt" : "2024-05-06T05:15:00.000Z",
+    "duration" : "23:07",
+    "url" : "https://www.youtube.com/watch?v=PZt5EJTLH4o"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial: Conclusion",
+    "publishedAt" : "2024-05-03T05:45:03.000Z",
+    "duration" : "06:10",
+    "url" : "https://www.youtube.com/watch?v=wXlujjCcPT0"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial: Observability using Prometheus, Loki, Tempo and Grafana",
+    "publishedAt" : "2024-05-03T05:30:01.000Z",
+    "duration" : "42:32",
+    "url" : "https://www.youtube.com/watch?v=71Qw1sOWHwE"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial : Securing MicroServices using Spring Security OAuth2",
+    "publishedAt" : "2024-05-02T10:00:34.000Z",
+    "duration" : "93:48",
+    "url" : "https://www.youtube.com/watch?v=_2e7nfgH-u8"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial: Building BookStore WebApp using Thymeleaf and Alpine.js",
+    "publishedAt" : "2024-05-01T04:45:03.000Z",
+    "duration" : "82:49",
+    "url" : "https://www.youtube.com/watch?v=lx3WQ2Ag1e8"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial : API Gateway using Spring Cloud Gateway",
+    "publishedAt" : "2024-04-30T05:00:31.000Z",
+    "duration" : "39:47",
+    "url" : "https://www.youtube.com/watch?v=n2QiHmn2o4E"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial : Implementing Notification Service",
+    "publishedAt" : "2024-04-29T05:00:00.000Z",
+    "duration" : "43:00",
+    "url" : "https://www.youtube.com/watch?v=a1WYLukl_cc"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial : Implement Get Orders APIs",
+    "publishedAt" : "2024-04-26T04:45:02.000Z",
+    "duration" : "25:06",
+    "url" : "https://www.youtube.com/watch?v=IXO0mIYVU5c"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial : Publish Order Events to RabbitMQ using Outbox Pattern",
+    "publishedAt" : "2024-04-23T18:30:19.000Z",
+    "duration" : "39:20",
+    "url" : "https://www.youtube.com/watch?v=YM2RRrSgGaA"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial : RestClient with Resilience4j Patterns Applied",
+    "publishedAt" : "2024-04-22T05:00:34.000Z",
+    "duration" : "64:10",
+    "url" : "https://www.youtube.com/watch?v=vEPYtL_Vusc"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial: Implementing Create Order API",
+    "publishedAt" : "2024-04-19T05:30:13.000Z",
+    "duration" : "48:48",
+    "url" : "https://www.youtube.com/watch?v=rakXLMlJ-8k"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial: Order Service Walking Skeleton Setup",
+    "publishedAt" : "2024-04-17T10:00:06.000Z",
+    "duration" : "27:06",
+    "url" : "https://www.youtube.com/watch?v=UzkEFyqsC00"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial : Dockerizing Catalog Service",
+    "publishedAt" : "2024-04-14T03:50:56.000Z",
+    "duration" : "17:50",
+    "url" : "https://www.youtube.com/watch?v=LoNmjs_Nks8"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial: Implementing Catalog Service APIs",
+    "publishedAt" : "2024-04-10T12:04:57.000Z",
+    "duration" : "81:11",
+    "url" : "https://www.youtube.com/watch?v=wJNFtkPqn2g"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial: Catalog Service Walking Skeleton Setup",
+    "publishedAt" : "2024-04-09T13:30:23.000Z",
+    "duration" : "51:51",
+    "url" : "https://www.youtube.com/watch?v=T75K_cbUYwE"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial - Introduction to Microservices Architecture",
+    "publishedAt" : "2024-04-06T11:30:10.000Z",
+    "duration" : "40:10",
+    "url" : "https://www.youtube.com/watch?v=Kr4d4kcpizI"
+  }, {
+    "title" : "Spring Boot MicroServices  Tutorial - Project Based Learning",
+    "publishedAt" : "2024-04-03T14:30:06.000Z",
+    "duration" : "17:51",
+    "url" : "https://www.youtube.com/watch?v=Ygraiu4hDJE"
+  }, {
+    "title" : "Spring Boot REST API Anti-Patterns and Best Practices",
+    "publishedAt" : "2024-03-19T15:17:44.000Z",
+    "duration" : "102:40",
+    "url" : "https://www.youtube.com/watch?v=koxu51eqDiQ"
+  }, {
+    "title" : "Generative AI Conversations using LangChain4j ChatMemory",
+    "publishedAt" : "2024-03-14T08:12:47.000Z",
+    "duration" : "10:36",
+    "url" : "https://www.youtube.com/watch?v=yB6X_AbLh8E"
+  }, {
+    "title" : "Getting Started with Generative AI using Java, LangChain4j, OpenAI and Ollama",
+    "publishedAt" : "2024-03-12T04:45:02.000Z",
+    "duration" : "17:12",
+    "url" : "https://www.youtube.com/watch?v=ld0ZU6bd9bM"
+  }, {
+    "title" : "Automatically Upgrade Your Application Dependent Libraries using Renovate",
+    "publishedAt" : "2024-02-29T05:30:09.000Z",
+    "duration" : "09:33",
+    "url" : "https://www.youtube.com/watch?v=XxfnOEbPreo"
+  }, {
+    "title" : "5 Java Libraries You Should Know",
+    "publishedAt" : "2024-02-14T07:24:20.000Z",
+    "duration" : "15:46",
+    "url" : "https://www.youtube.com/watch?v=sHZGv0PklQ0"
+  }, {
+    "title" : "Modern Spring Boot Application Development using Java 17/21 and Testcontainers",
+    "publishedAt" : "2024-02-11T12:58:30.000Z",
+    "duration" : "45:56",
+    "url" : "https://www.youtube.com/watch?v=q2LSz7cnC1g"
+  }, {
+    "title" : "Just “Clone & Run” Developer Experience using Testcontainers",
+    "publishedAt" : "2023-09-20T23:19:44.000Z",
+    "duration" : "46:36",
+    "url" : "https://www.youtube.com/watch?v=PWTKMVb4HIY"
+  }, {
+    "title" : "Is Java Relevant in 2023?",
+    "publishedAt" : "2023-09-17T00:07:00.000Z",
+    "duration" : "63:48",
+    "url" : "https://www.youtube.com/watch?v=UPmeFY_HWN0"
+  }, {
+    "title" : "Spring Boot In Depth : 8 - How Spring Boot Auto Configuration Works?",
+    "publishedAt" : "2023-04-29T19:00:03.000Z",
+    "duration" : "14:03",
+    "url" : "https://www.youtube.com/watch?v=7psf7h3VSOw"
+  }, {
+    "title" : "Spring Boot 3.1.0 support for Testcontainers Service Connections and Local Development",
+    "publishedAt" : "2023-04-18T13:20:17.000Z",
+    "duration" : "07:58",
+    "url" : "https://www.youtube.com/watch?v=UuLD9gZmiZU"
+  }, {
+    "title" : "How do I upskill myself, and what tools & techniques do I use?",
+    "publishedAt" : "2023-04-17T10:33:53.000Z",
+    "duration" : "30:38",
+    "url" : "https://www.youtube.com/watch?v=oOAaGvpQTCo"
+  }, {
+    "title" : "Java Testing Made Easy : Performance Testing using Gatling",
+    "publishedAt" : "2023-04-13T04:15:00.000Z",
+    "duration" : "20:34",
+    "url" : "https://www.youtube.com/watch?v=AYHeNNxXNDw"
+  }, {
+    "title" : "Java Testing Made Easy : End-To-End Testing using Playwright",
+    "publishedAt" : "2023-04-10T04:15:00.000Z",
+    "duration" : "24:52",
+    "url" : "https://www.youtube.com/watch?v=B2bGxIqkuIM"
+  }, {
+    "title" : "Java Testing Made Easy : Testing External API Integrations using WireMock and MockServer",
+    "publishedAt" : "2023-04-04T04:45:00.000Z",
+    "duration" : "23:41",
+    "url" : "https://www.youtube.com/watch?v=1fLNqzmnLXc"
+  }, {
+    "title" : "Java Testing Made Easy: Testing Kafka, RabbitMQ Messaging Workflows using Testcontainers",
+    "publishedAt" : "2023-03-30T04:45:00.000Z",
+    "duration" : "19:03",
+    "url" : "https://www.youtube.com/watch?v=9jZInwFtp44"
+  }, {
+    "title" : "Java Testing Made Easy : Testing Database Repositories using Testcontainers",
+    "publishedAt" : "2023-03-27T05:15:02.000Z",
+    "duration" : "19:57",
+    "url" : "https://www.youtube.com/watch?v=sWWwVAJ2cCw"
+  }, {
+    "title" : "Java Testing Made Easy : Integration Testing using Testcontainers",
+    "publishedAt" : "2023-03-23T04:30:12.000Z",
+    "duration" : "27:11",
+    "url" : "https://www.youtube.com/watch?v=hDs2R2ogho8"
+  }, {
+    "title" : "Java Testing Made Easy : Should I write more Unit Tests or Integration Tests?",
+    "publishedAt" : "2023-03-21T04:30:07.000Z",
+    "duration" : "22:52",
+    "url" : "https://www.youtube.com/watch?v=U4_NRIEw_5w"
+  }, {
+    "title" : "Java Testing Made Easy : Unit Testing using Mockito",
+    "publishedAt" : "2023-03-17T03:33:14.000Z",
+    "duration" : "34:26",
+    "url" : "https://www.youtube.com/watch?v=2Tx0BIC20kk"
+  }, {
+    "title" : "Java Testing Made Easy: Quick tour of most commonly used JUnit 5 features",
+    "publishedAt" : "2023-03-13T04:00:14.000Z",
+    "duration" : "29:40",
+    "url" : "https://www.youtube.com/watch?v=c8oLjWgR-po"
+  }, {
+    "title" : "Java Testing Made Easy: Why using Assertj assertions much better?",
+    "publishedAt" : "2023-03-06T04:45:01.000Z",
+    "duration" : "11:26",
+    "url" : "https://www.youtube.com/watch?v=Ri_fiEr3wMg"
+  }, {
+    "title" : "Java Testing Made Easy : Configuring JUnit 5 in Maven and Gradle Projects",
+    "publishedAt" : "2023-03-03T04:45:04.000Z",
+    "duration" : "11:20",
+    "url" : "https://www.youtube.com/watch?v=w-pMwt7Exkc"
+  }, {
+    "title" : "Migrate JUnit 4 tests to JUnit 5 using Intellij IDEA in One Click",
+    "publishedAt" : "2023-03-03T04:00:18.000Z",
+    "duration" : "01:01",
+    "url" : "https://www.youtube.com/watch?v=oY87wdzUuXE"
+  }, {
+    "title" : "Java Testing Made Easy: Learn to write Unit, Integration, E2E & Performance Tests",
+    "publishedAt" : "2023-03-02T07:23:04.000Z",
+    "duration" : "05:10",
+    "url" : "https://www.youtube.com/watch?v=FGoLvCc6BeI"
+  }, {
+    "title" : "Awesome tip for creating a class from code snippet in Intellij IDEA",
+    "publishedAt" : "2023-02-26T00:47:34.000Z",
+    "duration" : "00:31",
+    "url" : "https://www.youtube.com/watch?v=yTBZVW2UAv0"
+  }, {
+    "title" : "Top 5 Tips to succeed in Technical Interviews",
+    "publishedAt" : "2023-02-23T06:11:52.000Z",
+    "duration" : "13:52",
+    "url" : "https://www.youtube.com/watch?v=xNf512h5bnU"
+  }, {
+    "title" : "Spring Boot In Depth : 7 - Spring Bean Registration using Annotations and JavaConfig",
+    "publishedAt" : "2023-02-21T04:41:35.000Z",
+    "duration" : "23:42",
+    "url" : "https://www.youtube.com/watch?v=a0an9e1FhS0"
+  }, {
+    "title" : "Spring Boot In Depth : 6 - How Spring handles Transactions & Security using AOP/Proxies",
+    "publishedAt" : "2023-02-15T04:14:30.000Z",
+    "duration" : "26:02",
+    "url" : "https://www.youtube.com/watch?v=jviq49ukATo"
+  }, {
+    "title" : "Use this AWESOME IntelliJ IDEA tip to create a class quickly from a code snippet",
+    "publishedAt" : "2023-02-14T04:51:34.000Z",
+    "duration" : "00:31",
+    "url" : "https://www.youtube.com/watch?v=hEIsIWzKSsw"
+  }, {
+    "title" : "Spring Boot In Depth : 5 - How Spring uses Template Design Pattern",
+    "publishedAt" : "2023-02-13T04:00:13.000Z",
+    "duration" : "05:32",
+    "url" : "https://www.youtube.com/watch?v=pp5GP8VczMU"
+  }, {
+    "title" : "Spring Boot In Depth : 4 - Understanding How Spring's Dependency Injection Work",
+    "publishedAt" : "2023-02-10T04:15:00.000Z",
+    "duration" : "37:39",
+    "url" : "https://www.youtube.com/watch?v=G35N2GfulFU"
+  }, {
+    "title" : "Spring Boot In Depth : 3 - Understanding Dependency Injection",
+    "publishedAt" : "2023-02-09T04:15:01.000Z",
+    "duration" : "14:12",
+    "url" : "https://www.youtube.com/watch?v=3yJfR9AZwCc"
+  }, {
+    "title" : "Spring Boot In Depth : 2 - What you need to know before starting with Spring Boot",
+    "publishedAt" : "2023-02-07T04:45:05.000Z",
+    "duration" : "08:50",
+    "url" : "https://www.youtube.com/watch?v=wBK_tAMz82w"
+  }, {
+    "title" : "Spring Boot In Depth : 1 - Introduction",
+    "publishedAt" : "2023-02-06T04:15:00.000Z",
+    "duration" : "05:15",
+    "url" : "https://www.youtube.com/watch?v=3tTS8rwV7zQ"
+  }, {
+    "title" : "My Journey of Learning \"How to write better tests\"",
+    "publishedAt" : "2022-10-31T04:30:05.000Z",
+    "duration" : "18:16",
+    "url" : "https://www.youtube.com/watch?v=V7MlUhxXcsM"
+  }, {
+    "title" : "Intellij IDEA - Live & File Templates : Supercharge your Intellij IDEA",
+    "publishedAt" : "2022-10-04T04:30:07.000Z",
+    "duration" : "27:09",
+    "url" : "https://www.youtube.com/watch?v=pw9DUdk6dIM"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 25 : Wrap Up",
+    "publishedAt" : "2022-09-28T04:48:37.000Z",
+    "duration" : "07:37",
+    "url" : "https://www.youtube.com/watch?v=AHPPGwVlImg"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 24 : Kubernetes : Routing using Ingress",
+    "publishedAt" : "2022-09-28T04:00:06.000Z",
+    "duration" : "13:46",
+    "url" : "https://www.youtube.com/watch?v=IWSJS6LaWzI"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 23 : Kubernetes : Exposing pods using Services",
+    "publishedAt" : "2022-09-26T04:00:23.000Z",
+    "duration" : "22:03",
+    "url" : "https://www.youtube.com/watch?v=ylNBUViEy1A"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 22 : Kubernetes : Persistent Volumes and PV Claims",
+    "publishedAt" : "2022-09-23T04:00:14.000Z",
+    "duration" : "16:39",
+    "url" : "https://www.youtube.com/watch?v=Zx3QftpHbfs"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 21 : Kubernetes : ConfigMaps and Secrets",
+    "publishedAt" : "2022-09-21T04:00:12.000Z",
+    "duration" : "23:26",
+    "url" : "https://www.youtube.com/watch?v=EWQIoGIp4y0"
+  }, {
+    "title" : "Portainer - Docker Container Management GUI tool that you would love to use",
+    "publishedAt" : "2022-09-20T04:15:01.000Z",
+    "duration" : "08:35",
+    "url" : "https://www.youtube.com/watch?v=mxj5LMpE7WQ"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 20 : Kubernetes : Pods and Deployments",
+    "publishedAt" : "2022-09-19T03:35:01.000Z",
+    "duration" : "32:21",
+    "url" : "https://www.youtube.com/watch?v=d1X85fhkSKM"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 19: Introducing Docker & Kubernetes, Kind Cluster",
+    "publishedAt" : "2022-09-16T04:00:06.000Z",
+    "duration" : "31:46",
+    "url" : "https://www.youtube.com/watch?v=9-qtbC9OHP8"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 18 : Dockerizing NextJS Application",
+    "publishedAt" : "2022-09-14T12:08:35.000Z",
+    "duration" : "19:16",
+    "url" : "https://www.youtube.com/watch?v=1Pl7IYWHuwY"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 17 : Communication between Host & Docker Containers",
+    "publishedAt" : "2022-09-12T04:00:12.000Z",
+    "duration" : "13:42",
+    "url" : "https://www.youtube.com/watch?v=MrMvtDs0qSI"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 16 : Implementing Add Bookmark Feature",
+    "publishedAt" : "2022-09-08T04:00:04.000Z",
+    "duration" : "13:07",
+    "url" : "https://www.youtube.com/watch?v=GHUfOt2MSEc"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 15 : Implementing Bookmarks Search Feature",
+    "publishedAt" : "2022-09-05T04:00:07.000Z",
+    "duration" : "13:29",
+    "url" : "https://www.youtube.com/watch?v=NO_ELJI5tlc"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 13 : Bookmarker UI Project SetUp using NextJS",
+    "publishedAt" : "2022-08-29T04:00:12.000Z",
+    "duration" : "13:49",
+    "url" : "https://www.youtube.com/watch?v=e21n6F39yG0"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 14 : Implementing Bookmarks Listing Page UI",
+    "publishedAt" : "2022-08-28T04:26:31.000Z",
+    "duration" : "27:52",
+    "url" : "https://www.youtube.com/watch?v=Fv2xSRaCrmM"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 12 : Introduction to ReactJS & NextJS",
+    "publishedAt" : "2022-08-22T04:15:01.000Z",
+    "duration" : "24:10",
+    "url" : "https://www.youtube.com/watch?v=x5KMRG3bt1Q"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 11 : Local Dev environment setup using DockerCompose",
+    "publishedAt" : "2022-08-08T04:15:01.000Z",
+    "duration" : "26:35",
+    "url" : "https://www.youtube.com/watch?v=gNs-JTiOASY"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 10 : Implementing Create Bookmarks API",
+    "publishedAt" : "2022-08-04T03:45:00.000Z",
+    "duration" : "18:49",
+    "url" : "https://www.youtube.com/watch?v=0blPxGg_thU"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 9 : Implementing Search Bookmarks API",
+    "publishedAt" : "2022-08-01T03:45:00.000Z",
+    "duration" : "19:36",
+    "url" : "https://www.youtube.com/watch?v=CZ2zOCCEff0"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 8 : Continuous Integration using GitHub Actions",
+    "publishedAt" : "2022-07-28T03:45:00.000Z",
+    "duration" : "13:46",
+    "url" : "https://www.youtube.com/watch?v=qSMT3o48eI0"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 7:  Dockerizing SpringBoot Application",
+    "publishedAt" : "2022-07-25T03:45:01.000Z",
+    "duration" : "10:54",
+    "url" : "https://www.youtube.com/watch?v=5q4w-c2WUv0"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 6: API Integration Testing using Testcontainers",
+    "publishedAt" : "2022-07-21T03:45:01.000Z",
+    "duration" : "23:17",
+    "url" : "https://www.youtube.com/watch?v=2AwE9PsyqF8"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 5 : Using Spring Data JPA DTO Projections",
+    "publishedAt" : "2022-07-18T03:45:00.000Z",
+    "duration" : "17:26",
+    "url" : "https://www.youtube.com/watch?v=SMn-YezGkdA"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 4 : Database Migrations using Flyway",
+    "publishedAt" : "2022-07-14T03:45:01.000Z",
+    "duration" : "16:53",
+    "url" : "https://www.youtube.com/watch?v=q5pfc_bFK-Y"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 3 : Implementing GetBookmarks API",
+    "publishedAt" : "2022-07-11T03:45:00.000Z",
+    "duration" : "20:27",
+    "url" : "https://www.youtube.com/watch?v=UhEMh-HZIMY"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 2 : ProjectSetup",
+    "publishedAt" : "2022-07-07T04:15:00.000Z",
+    "duration" : "06:18",
+    "url" : "https://www.youtube.com/watch?v=7UAqzQsSPEQ"
+  }, {
+    "title" : "Spring Boot + Kubernetes Tutorial Series - Part 1 : Introduction",
+    "publishedAt" : "2022-07-04T04:15:02.000Z",
+    "duration" : "09:15",
+    "url" : "https://www.youtube.com/watch?v=pGbBuwzyiV4"
+  }, {
+    "title" : "Spring Boot Tips : Part 10 - Generating Swagger docs for SpringBoot REST APIs",
+    "publishedAt" : "2022-06-27T04:15:00.000Z",
+    "duration" : "24:15",
+    "url" : "https://www.youtube.com/watch?v=ChBDDd7jXpo"
+  }, {
+    "title" : "Spring Boot Tips : Part 9 - Monitoring Spring Boot applications using Spring Boot Admin",
+    "publishedAt" : "2022-06-19T18:30:17.000Z",
+    "duration" : "17:04",
+    "url" : "https://www.youtube.com/watch?v=Oydba8VHPZM"
+  }, {
+    "title" : "Spring Boot Tips : Part 8 - Making SpringBoot Application Production Ready using Actuator",
+    "publishedAt" : "2022-06-12T18:30:14.000Z",
+    "duration" : "32:36",
+    "url" : "https://www.youtube.com/watch?v=MUIekfhTyEo"
+  }, {
+    "title" : "Spring Boot Tips : Part 7 - Exception Handling in SpringBoot REST APIs using problem-spring-web",
+    "publishedAt" : "2022-06-06T04:15:00.000Z",
+    "duration" : "15:38",
+    "url" : "https://www.youtube.com/watch?v=hVfajuyEJMQ"
+  }, {
+    "title" : "Spring Boot Tips : Part 6 - Exception Handling in SpringBoot Applications",
+    "publishedAt" : "2022-06-01T04:15:00.000Z",
+    "duration" : "49:17",
+    "url" : "https://www.youtube.com/watch?v=riBHV6ux4nQ"
+  }, {
+    "title" : "Spring Boot Tips : Part 5 - Integration Testing using Testcontainers",
+    "publishedAt" : "2022-05-26T04:35:56.000Z",
+    "duration" : "37:36",
+    "url" : "https://www.youtube.com/watch?v=osw9dz2ZhhQ"
+  }, {
+    "title" : "Spring Boot Tips : Part 4 - How to write Unit, Slice & Integration Tests in SpringBoot Applications",
+    "publishedAt" : "2022-05-20T06:00:52.000Z",
+    "duration" : "41:10",
+    "url" : "https://www.youtube.com/watch?v=NzMIKpYpiZ4"
+  }, {
+    "title" : "Spring Boot Tips : Part 3 - How to implement Logging in SpringBoot applications",
+    "publishedAt" : "2022-05-17T04:15:01.000Z",
+    "duration" : "44:22",
+    "url" : "https://www.youtube.com/watch?v=tmj6QphzAPo"
+  }, {
+    "title" : "Spring Boot Tips : Part 2 - Managing Application Configuration Properties In The Right Way",
+    "publishedAt" : "2022-05-12T05:00:02.000Z",
+    "duration" : "22:27",
+    "url" : "https://www.youtube.com/watch?v=4OX7hbAGuRE"
+  }, {
+    "title" : "Spring Boot Tips : Part 1 - How DependencyManagement works in SpringBoot applications",
+    "publishedAt" : "2022-05-10T00:45:00.000Z",
+    "duration" : "20:49",
+    "url" : "https://www.youtube.com/watch?v=2dPon1G5S-M"
+  }, {
+    "title" : "Working with Multiple Java Versions using SDKMAN Easily",
+    "publishedAt" : "2022-05-01T18:30:22.000Z",
+    "duration" : "12:34",
+    "url" : "https://www.youtube.com/watch?v=ZywEiw3EO8A"
+  }, {
+    "title" : "Better Alternatives To Generate Spring Boot Applications",
+    "publishedAt" : "2022-04-30T09:25:33.000Z",
+    "duration" : "35:17",
+    "url" : "https://www.youtube.com/watch?v=2E8r-HVLZGY"
+  }, {
+    "title" : "Part 2: Using SpringBoot with Tomcat/Jetty/Undertow servers",
+    "publishedAt" : "2015-06-27T01:56:35.000Z",
+    "duration" : "14:02",
+    "url" : "https://www.youtube.com/watch?v=GYmKzt9CZeY"
+  }, {
+    "title" : "Introduction To SpringBoot - Part1",
+    "publishedAt" : "2015-06-21T03:35:00.000Z",
+    "duration" : "35:42",
+    "url" : "https://www.youtube.com/watch?v=gHrAXzGYbyQ"
+  } ]
+}

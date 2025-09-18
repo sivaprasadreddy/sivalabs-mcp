@@ -9,15 +9,15 @@ A demo application to explore MCP(Model Context Protocol) using Spring AI.
 ```shell
 $ git clone https://github.com/sivaprasadreddy/sivalabs-mcp.git
 $ cd sivalabs-mcp
-$ ./mvnw clean package
+$ mvn clean package
 ```
 
 * Create OpenAI key and set it as `OPENAI_API_KEY` environment variable.
 * Update java and jar path in `sivalabs-mcp-client/src/main/resources/mcp-servers.json`
 
 ```shell
-$ cd sivalabs-mcp-client
-$ ./mvnw spring-boot:run
+$ cd sivalabs-mcp-client-stdio
+$ mvn spring-boot:run
 ```
 
 Open http://localhost:8080
