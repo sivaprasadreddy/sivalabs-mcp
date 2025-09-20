@@ -29,19 +29,7 @@ public class SivaLabsMcpServerApplication {
 	}
 
 	@Bean
-	public List<ToolCallback> toolCallbacks(VideoTools courseService) {
-		return List.of(ToolCallbacks.from(courseService));
-	}
-
-	@Bean
-	public List<SyncPromptSpecification> prompts() {
-		var prompt = new Prompt("SivaLabs Courses", "Get courses from SivaLabs", List.of());
-
-		var promptSpecification = new SyncPromptSpecification(prompt, (exchange, getPromptRequest) -> {
-			var userMessage = new PromptMessage(Role.USER, new TextContent("What are the courses offered by SivaLabs?"));
-			return new McpSchema.GetPromptResult("A list of SivaLabs courses", List.of(userMessage));
-		});
-
-		return List.of(promptSpecification);
+	public List<ToolCallback> toolCallbacks(VideoTools videoTools) {
+		return List.of(ToolCallbacks.from(videoTools));
 	}
 }

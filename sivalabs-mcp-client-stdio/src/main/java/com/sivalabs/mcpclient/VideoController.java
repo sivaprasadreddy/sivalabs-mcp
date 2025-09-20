@@ -21,6 +21,7 @@ public class VideoController {
 
     @PostMapping("/ask")
     public Answer ask(@RequestBody Question question) {
+        log.debug("Asked question: {}", question);
         var answer = chatClient.prompt()
                 .user(question.question())
                 .call()

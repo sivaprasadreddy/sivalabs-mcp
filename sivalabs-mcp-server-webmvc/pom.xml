@@ -11,25 +11,21 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sivalabs</groupId>
-	<artifactId>sivalabs-mcp-server-stdio</artifactId>
+	<artifactId>sivalabs-mcp-server-webmvc</artifactId>
 	<version>0.0.1</version>
-	<name>sivalabs-mcp-server-stdio</name>
+	<name>sivalabs-mcp-server-webmvc</name>
 
 	<properties>
 		<java.version>24</java.version>
-		<spring-ai.version>1.0.2</spring-ai.version>
-        <dockerImageName>sivaprasadreddy/youtube-mcp-stdio</dockerImageName>
+		<spring-ai.version>1.1.0-SNAPSHOT</spring-ai.version>
+        <dockerImageName>sivaprasadreddy/youtube-mcp-webmvc</dockerImageName>
 	</properties>
 
 	<dependencies>
         <dependency>
             <groupId>org.springframework.ai</groupId>
-            <artifactId>spring-ai-starter-mcp-server</artifactId>
+            <artifactId>spring-ai-starter-mcp-server-webmvc</artifactId>
         </dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-json</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>

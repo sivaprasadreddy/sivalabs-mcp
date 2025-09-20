@@ -19,6 +19,7 @@
 		<module>youtube-api</module>
 		<module>sivalabs-mcp-server-stdio</module>
 		<module>sivalabs-mcp-client-stdio</module>
+        <module>sivalabs-mcp-server-webmvc</module>
 	</modules>
 
 </project>
