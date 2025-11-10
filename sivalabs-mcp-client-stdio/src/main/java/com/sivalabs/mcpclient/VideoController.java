@@ -3,7 +3,6 @@ package com.sivalabs.mcpclient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.ai.chat.client.ChatClient;
-import org.springframework.ai.tool.ToolCallbackProvider;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
@@ -11,12 +10,8 @@ public class VideoController {
     private static final Logger log = LoggerFactory.getLogger(VideoController.class);
     private final ChatClient chatClient;
 
-    public VideoController(ChatClient.Builder chatClientBuilder,
-                           ToolCallbackProvider tools) {
-        this.chatClient = chatClientBuilder
-                .defaultSystem("Answer all questions with complete sentences.")
-                .defaultToolCallbacks(tools)
-                .build();
+    public VideoController(ChatClient chatClient) {
+        this.chatClient = chatClient;
     }
 
     @PostMapping("/ask")

@@ -28,8 +28,10 @@ public class SivaLabsMcpServerApplication {
 		return objectMapper;
 	}
 
+	/*
 	@Bean
 	public List<ToolCallback> toolCallbacks(VideoTools videoTools) {
 		return List.of(ToolCallbacks.from(videoTools));
 	}
+	*/
 }

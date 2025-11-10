@@ -29,6 +29,15 @@ Arguments: -jar /Users/siva/Siva/Projects/My/sivalabs-mcp/sivalabs-mcp-server-st
 
 **Using Docker to run MCP server.**
 
+Build docker image:
+
+```shell
+$ cd sivalabs-mcp-server-stdio
+$ docker build -t sivaprasadreddy/youtube-mcp-stdio .
+```
+
+In MCP Inspector, use the following command to run MCP server:
+
 ```shell
 Transport Type: STDIO
 Command: docker
