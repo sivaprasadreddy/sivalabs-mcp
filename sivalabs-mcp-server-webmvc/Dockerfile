@@ -1,4 +1,4 @@
-FROM eclipse-temurin:25-jdk
+FROM eclipse-temurin:25.0.1_8-jdk
 COPY target/*.jar app.jar
 
 RUN mkdir /logs
